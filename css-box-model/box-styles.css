@@ -1,0 +1,17 @@
+h1, p {
+    background-color: #DDE0E3;    /* Light gray */
+}
+  
+em, strong {
+    background-color: #B2D6FF;    /* Light blue */
+    display: inline;     /* This is the default for em and strong */
+}
+
+h1 {
+    padding: 50px 30px 50px 30px;        /* Top  Right  Bottom  Left */
+    border: 5px solid #5D6063;
+}
+
+p {
+    padding: 20px 10px;  /* Vertical  Horizontal */
+  }
